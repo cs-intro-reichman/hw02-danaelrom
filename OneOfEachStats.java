@@ -43,7 +43,7 @@ public class OneOfEachStats {
 			}
 			sumall = sumall + sum;
 			sum = 0;
-
+		/* too much if-else doesn't look good*/
 		}
 		String common = "2";
 		if(count3Children > count2Children){
