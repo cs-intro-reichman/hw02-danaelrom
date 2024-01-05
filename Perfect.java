@@ -12,6 +12,7 @@ public class Perfect {
             	s = s + " + " + i;
             }
         }
+	/* very poor indentation, importenet to attend to it*/
         if (sum == n){
         	System.out.println(s);
         } else {
